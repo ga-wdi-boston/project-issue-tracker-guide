@@ -28,6 +28,14 @@ rather than easy ones.
     Test your front-end with `grunt test`; test your back-end with either
     `bundle exec rspec` (Rails) or `jasmine-node spec` (Express).
 
+1.  **If you have an error message, read the error!**
+
+    Error messages are great, because they tell you what's going wrong.
+    Take note of
+    (a) what type of error you have,
+    (b) what file it occurred in, and
+    (c) the line and character numbers at which the error occurred.
+
 1.  **At least once, try using your debugger to see when the error appears.**
 
     Debugging tools exist for a reason! Drop in a `debugger;` (JS)

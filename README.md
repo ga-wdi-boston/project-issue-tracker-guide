@@ -101,6 +101,23 @@ To create a new issue and request assistance,
 
 1.  **Click 'Submit New Issue'.**
 
+## "What should I do while I'm waiting for assistance?"
+
+If possible, work on something else!
+Hopefully, you've been using version control effectively,
+so you have multiple different branches for working on different features.
+In that case, just switch to a different feature branch and start working.
+
+Another possibility, if you want to keep working on the same feature,
+is to use `git stash` (to temporarily store uncommitted changes)
+and `git checkout` to go _back in time_ to a previous commit --
+specifically, the last time everything was working.
+Once there, you can create a new branch (or branch**es**) off of that commit,
+so that you can experiment with other ways to solve the problem.
+
+Whatever you do, don't sit around waiting.
+Project time is limited, so try to use it as effectively as possible.
+
 ## [License](LICENSE)
 
 Source code distributed under the MIT license. Text and other assets copyright

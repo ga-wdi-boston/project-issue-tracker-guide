@@ -64,6 +64,43 @@ rather than easy ones.
     you are all working on more-or-less the same thing,
     so they may already have the solution to your specific problem.
 
+## How to Use the Issue Tracker
+
+Directions for each project can be found in a repo ending in `...-project`,
+and this is also where issues relating to that project will be handled.
+
+To create a new issue and request assistance,
+
+1.  **Go to the 'Issues' tab and click 'New Issue'.**
+
+1.  **Create a title for your issue.**
+
+    Please try to use the following format:
+
+    > "\[ language or framework you're using \] -
+    > \[ **short** (< 80 chars) description of issue \]"
+
+1.  **Give a description of the issue you've got.**
+
+    Please try to use the following format:
+
+    > Linter Output:
+    >
+    > \[ output from `grunt nag`/`rubocop` \]
+    >
+    > Issue Description:
+    >
+    > \[ what you were doing when the problem showed up \]
+    >
+    > \[ error message, if one exists \]
+    >
+    > \[ things you've tried to fix the problem \]
+    >
+    > \[ the last point at which the app was working \]
+    >
+
+1.  **Click 'Submit New Issue'.**
+
 ## [License](LICENSE)
 
 Source code distributed under the MIT license. Text and other assets copyright

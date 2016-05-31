@@ -64,6 +64,12 @@ rather than easy ones.
     you are all working on more-or-less the same thing,
     so they may already have the solution to your specific problem.
 
+1.  Read/search closed issues.
+
+    Similar to the previous one, but in case other developers aren't around,
+    you can actually sift through other issues and see if a solution exists
+    by clicking on `Issues` and then `3 Closed` at the top.
+
 ## How to Use the Issue Tracker
 
 Directions for each project can be found in a repo ending in `...-project`,

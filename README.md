@@ -104,6 +104,8 @@ To create a new issue and request assistance,
     >
     > \[ the last point at which the app was working \]
     >
+    > \[ screenshots are helpful, but be sure to include actual code as well \]
+    >
 
 1.  Click 'Submit New Issue'.
 

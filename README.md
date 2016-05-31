@@ -16,19 +16,19 @@ this will help make the process more efficient
 by allowing the team to spend most of its time on hard issues,
 rather than easy ones.
 
-1.  **Run your linter.**
+1.  Run your linter.
 
     It sounds obvious,
     but being consistent with this will save everyone a lot of time.
     Whether you use the linter built into Atom, `grunt nag`, `rubocop`,
     or something else,
 
-1.  **If you have tests, run them.**
+1.  If you have tests, run them.
 
     Test your front-end with `grunt test`; test your back-end with either
     `bundle exec rspec` (Rails) or `jasmine-node spec` (Express).
 
-1.  **If you have an error message, read the error!**
+1.  If you have an error message, read the error!
 
     Error messages are great, because they tell you what's going wrong.
     Take note of
@@ -36,14 +36,14 @@ rather than easy ones.
     (b) what file it occurred in, and
     (c) the line and character numbers at which the error occurred.
 
-1.  **At least once, try using your debugger to see when the error appears.**
+1.  At least once, try using your debugger to see when the error appears.
 
     Debugging tools exist for a reason! Drop in a `debugger;` (JS)
     or a `binding.pry` (Ruby) and see if you can figure out
     how far the program runs before it hits the error.
     This can also help you check the values of variables as you go.
 
-1.  **Read through the documentation.**
+1.  Read through the documentation.
 
     Every tool we use has some sort of documentation available.
     Many documentation sources even implements a search feature,
@@ -52,13 +52,13 @@ rather than easy ones.
     since they explain what inputs a function is supposed to take;
     passing a function the wrong input value(s) is a very common error.
 
-1.  **Search Google and Stack Overflow for your issue.**
+1.  Search Google and Stack Overflow for your issue.
 
     You're probably not the first person to ever encounter your issue.
     Try copying the content of your error message (in quotes) into a search bar;
     you might be surprised what turns up.
 
-1.  **Ask a peer.**
+1.  Ask a peer.
 
     See if any of the other developers have encountered a similar issue -
     you are all working on more-or-less the same thing,
@@ -71,16 +71,16 @@ and this is also where issues relating to that project will be handled.
 
 To create a new issue and request assistance,
 
-1.  **Go to the 'Issues' tab and click 'New Issue'.**
+1.  Go to the 'Issues' tab and click 'New Issue'.
 
-1.  **Create a title for your issue.**
+1.  Create a title for your issue.
 
     Please try to use the following format:
 
     > "\[ language or framework you're using \] -
-    > \[ **short** (< 80 chars) description of issue \]"
+    > \[ short (< 80 chars) description of issue \]"
 
-1.  **Give a description of the issue you've got.**
+1.  Give a description of the issue you've got.
 
     Please try to use the following format:
 
@@ -99,7 +99,7 @@ To create a new issue and request assistance,
     > \[ the last point at which the app was working \]
     >
 
-1.  **Click 'Submit New Issue'.**
+1.  Click 'Submit New Issue'.
 
 ## "What should I do while I'm waiting for assistance?"
 

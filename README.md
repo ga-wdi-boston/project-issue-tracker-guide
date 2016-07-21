@@ -130,6 +130,11 @@ so that you can experiment with other ways to solve the problem.
 Whatever you do, don't sit around waiting.
 Project time is limited, so try to use it as effectively as possible.
 
+## Additional Resources
+
+-   [Asking Questions](https://gist.github.com/Trevoke/3fb5e1c01baa2d6efba7#file-asking-questions-md)
+-   [Asking for Help](https://gist.github.com/adambray/a807067465a838db6ba2#file-asking_for_help-md)
+
 ## [License](LICENSE)
 
 Source code distributed under the MIT license. Text and other assets copyright

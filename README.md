@@ -98,14 +98,18 @@ To create a new issue and request assistance,
     >
     > \[ what you were doing when the problem showed up \]
     >
-    > \[ error message, if one exists \]
+    > \[ error message (as text), if one exists \]
+    >
+    > \[ the code that caused the error (as a fenced code block) or \]
+    >
+    > \[ the code that isn't working as expected \]
     >
     > \[ things you've tried to fix the problem \]
     >
     > \[ the last point at which the app was working \]
     >
-    > \[ screenshots are helpful, but be sure to include actual code as well \]
-    >
+
+Screenshots are seldom helpful and you should avoid pasting them into an issue.
 
 1.  Click 'Submit New Issue'.
 

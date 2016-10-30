@@ -18,29 +18,32 @@ rather than easy ones.
 
 1.  Run your linter.
 
-    It sounds obvious,
-    but being consistent with this will save everyone a lot of time.
-    Whether you use the linter built into Atom, `grunt nag`, `rubocop`,
-    or something else,
+    It may not seem obvious, but being consistent with this will save everyone a
+    lot of time. Whether you use the linter built into Atom, `grunt nag`,
+    `bin/rake nag`, or something else.
 
 1.  If you have tests, run them.
 
-    Test your front-end with `grunt test`; test your back-end with either
-    `bundle exec rspec` (Rails) or `jasmine-node spec` (Express).
+    Test your JavaScript with `grunt test`; test your Ruby with `bin/rake test` (or `bundle exec rake test`).
 
 1.  If you have an error message, read the error!
 
     Error messages are great, because they tell you what's going wrong.
     Take note of
-    (a) what type of error you have,
-    (b) what file it occurred in, and
-    (c) the line and character numbers at which the error occurred.
+
+    1.  what type of error you have,
+    1.  what file it occurred in, and
+    1.  the line and character numbers at which the error occurred.
+
+    Reading an error carefully frequently gives you the information you need to
+    correct it and move forward.
 
 1.  At least once, try using your debugger to see when the error appears.
 
-    Debugging tools exist for a reason! Drop in a `debugger;` (JS)
-    or a `binding.pry` (Ruby) and see if you can figure out
-    how far the program runs before it hits the error.
+    Debugging tools exist for a reason: in JavaScript, set a breakpoint in the
+    Chrome debugger (or drop a `debugger;` in your code);  in ruby, add  a
+    `binding.pry` to your code.  Your code will stop executing at that point.
+    See if you can figure out how far the program runs before it hits the error.
     This can also help you check the values of variables as you go.
 
 1.  Read through the documentation.
@@ -60,19 +63,22 @@ rather than easy ones.
 
 1.  Ask a peer.
 
-    See if any of the other developers have encountered a similar issue -
-    you are all working on more-or-less the same thing,
-    so they may already have the solution to your specific problem.
+    See if any of the other developers have encountered a similar issue - you
+    are often working on more-or-less the same thing, so someone else may
+    already have the solution to your specific problem.  Also, check open
+    issues, you may be able to collaborate on a solution to a shared problem.
 
 1.  Read/search closed issues.
 
-    Similar to the previous one, but in case other developers aren't around,
-    you can actually sift through other issues and see if a solution exists
-    by clicking on `Issues` and then `3 Closed` at the top.
+    Similar to the previous one, but in case other developers aren't around, you
+    can actually sift through other issues and see if a solution exists by
+    clicking on the tab marked **Issues
+    &lt;open issue count&gt;** and then selecting **&#x2713; &lt;closed issue
+    count&gt; Closed** at the top of the issues list.
 
 ## How to Use the Issue Tracker
 
-Directions for each project can be found in a repo ending in `...-project`,
+Directions for each project can be found in a repository ending in `-project`,
 and this is also where issues relating to that project will be handled.
 
 To create a new issue and request assistance,
@@ -92,7 +98,7 @@ To create a new issue and request assistance,
 
     > Linter Output:
     >
-    > \[ output from `grunt nag`/`rubocop` \]
+    > \[ output from `grunt nag`/`bin/rake nag` \]
     >
     > Issue Description:
     >
@@ -106,7 +112,7 @@ To create a new issue and request assistance,
     >
     > \[ things you've tried to fix the problem \]
     >
-    > \[ the last point at which the app was working \]
+    > \[ the last point at which code worked \]
     >
 
 Screenshots are seldom helpful and you should avoid pasting them into an issue.
@@ -115,20 +121,18 @@ Screenshots are seldom helpful and you should avoid pasting them into an issue.
 
 ## "What should I do while I'm waiting for assistance?"
 
-If possible, work on something else!
-Hopefully, you've been using version control effectively,
-so you have multiple different branches for working on different features.
-In that case, just switch to a different feature branch and start working.
+If possible, work on something else! If you've been using version control
+effectively you may have multiple different branches for working on different
+features. In that case, just switch to a different feature branch and working.
 
-Another possibility, if you want to keep working on the same feature,
-is to use `git stash` (to temporarily store uncommitted changes)
-and `git checkout` to go _back in time_ to a previous commit --
-specifically, the last time everything was working.
-Once there, you can create a new branch (or branch**es**) off of that commit,
-so that you can experiment with other ways to solve the problem.
+Another possibility, if you want to keep working on the same feature, is to use
+`git stash` (to temporarily store uncommitted changes) and `git checkout` to go
+_back in time_ to a previous commit -- specifically, the last time everything
+was working. Once there, you can create a new branch (or branch**es**) off of
+that commit, so that you can experiment with other ways to solve the problem.
 
-Whatever you do, don't sit around waiting.
-Project time is limited, so try to use it as effectively as possible.
+Whatever you do, don't sit around waiting. Project time is limited, so try to
+use it as effectively as possible.
 
 ## Additional Resources
 

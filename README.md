@@ -1,6 +1,19 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Instructions for Using the Project Issue Tracker
+# Project Issue Tracker Guide
+
+## Lab: Discover What It Means to Ask a Good Question
+
+A good question isn't a good question because of its content, but instead,
+how it is asked. A good question is the question most likely to get an answer.
+Part of our goal for this program is to help you get better at asking questions
+so you can grow after starting your first job!
+
+Take 5 minutes to read, and 5 minutes to discuss among your squad, ["How to be
+great at asking coding questions" by Gordon
+Zhu](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.dcgjznalw).
+
+## Instructions for Using the Project Issue Tracker
 
 During project periods, you may find yourself stuck or needing help.
 Never fear! The consulting team will answer questions and help you fix bugs.

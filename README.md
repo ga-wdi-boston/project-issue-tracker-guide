@@ -1,6 +1,28 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Instructions for Using the Project Issue Tracker
+# Project Issue Tracker Guide
+
+## Objectives
+
+By the end of this, developers should be able to:
+
+-   Ask for assistance using a project issue tracker.
+-   Describe what the tracker should be used for.
+-   Define what "good" questions are, and describe why asking better questions
+    is important.
+
+## Lab: Discover What It Means to Ask a Good Question
+
+A good question isn't a good question because of its content, but instead,
+how it is asked. A good question is the question most likely to get an answer.
+Part of our goal for this program is to help you get better at asking questions
+so you can grow after starting your first job!
+
+Take 5 minutes to read, and 5 minutes to discuss among your squad, ["How to be
+great at asking coding questions" by Gordon
+Zhu](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.dcgjznalw).
+
+## Instructions for Using the Project Issue Tracker
 
 During project periods, you may find yourself stuck or needing help.
 Never fear! The consulting team will answer questions and help you fix bugs.
@@ -8,23 +30,33 @@ Never fear! The consulting team will answer questions and help you fix bugs.
 To manage requests for assistance, the team uses GitHub's 'Issues' feature -
 this allows us to address issues asynchronously in an intelligent way.
 
+Use the issue tracker for the appropriate project (for example, `game-project`)
+to file your requests. Please note: the issue tracker **isn't only for bugs**.
+Use it for any and all requests you have during project work time, even 1on1s.
+
+If you require a 1on1 for personal reasons, please request that through an
+e-mail or Slack message to every member of instructional staff.
+
+Don't forget to **monitor your issues** for our responses, and **close them
+with notes** when resolved.
+
 ## Before You Create a New Issue (i.e. 'Due Diligence')
 
-Before you add a new issue to the tracker,
-the team will expect you to go through the following checklist;
-this will help make the process more efficient
-by allowing the team to spend most of its time on hard issues,
-rather than easy ones.
+Before you add a new issue to the tracker, the team will expect you to go
+through the following checklist; this will help make the process more efficient
+by allowing the team to spend most of its time on hard issues, rather than easy
+ones.
 
 1.  Run your linter.
 
-    It may not seem obvious, but being consistent with this will save everyone a
-    lot of time. Whether you use the linter built into Atom, `grunt nag`,
+    It may not seem obvious, but being consistent with this will save everyone
+    a lot of time. Whether you use the linter built into Atom, `grunt nag`,
     `bin/rake nag`, or something else.
 
 1.  If you have tests, run them.
 
-    Test your JavaScript with `grunt test`; test your Ruby with `bin/rake test` (or `bundle exec rake test`).
+    Test your JavaScript with `grunt test`; test your Ruby with `bin/rake test`
+    (or `bundle exec rake test`).
 
 1.  If you have an error message, read the error!
 
@@ -57,8 +89,8 @@ rather than easy ones.
 
 1.  Search Google and Stack Overflow for your issue.
 
-    You're probably not the first person to ever encounter your issue.
-    Try copying the content of your error message (in quotes) into a search bar;
+    You're probably not the first person to ever encounter your issue. Try
+    copying the content of your error message (in quotes) into a search bar;
     you might be surprised what turns up.
 
 1.  Ask a peer.
@@ -70,11 +102,11 @@ rather than easy ones.
 
 1.  Read/search closed issues.
 
-    Similar to the previous one, but in case other developers aren't around, you
-    can actually sift through other issues and see if a solution exists by
-    clicking on the tab marked **Issues
-    &lt;open issue count&gt;** and then selecting **&#x2713; &lt;closed issue
-    count&gt; Closed** at the top of the issues list.
+    Similar to the previous one, but in case other developers aren't around,
+    you can actually sift through other issues and see if a solution exists by
+    clicking on the tab marked **Issues &lt;open issue count&gt;** and then
+    selecting **&#x2713; &lt;closed issue count&gt; Closed** at the top of the
+    issues list.
 
 ## How to Use the Issue Tracker
 

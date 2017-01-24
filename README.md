@@ -8,6 +8,16 @@ Never fear! The consulting team will answer questions and help you fix bugs.
 To manage requests for assistance, the team uses GitHub's 'Issues' feature -
 this allows us to address issues asynchronously in an intelligent way.
 
+Use the issue tracker for the appropriate project (for example, `game-project`)
+to file your requests. Please note: the issue tracker **isn't only for bugs**.
+Use it for any and all requests you have during project work time, even 1on1s.
+
+If you require a 1on1 for personal reasons, please request that through an
+e-mail or Slack message to every member of instructional staff.
+
+Don't forget to **monitor your issues** for our responses, and **close them
+with notes** when resolved.
+
 ## Before You Create a New Issue (i.e. 'Due Diligence')
 
 Before you add a new issue to the tracker, the team will expect you to go

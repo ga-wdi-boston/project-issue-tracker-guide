@@ -2,6 +2,15 @@
 
 # Project Issue Tracker Guide
 
+## Objectives
+
+By the end of this, developers should be able to:
+
+-   Ask for assistance using a project issue tracker.
+-   Describe what the tracker should be used for.
+-   Define what "good" questions are, and describe why asking better questions
+    is important.
+
 ## Lab: Discover What It Means to Ask a Good Question
 
 A good question isn't a good question because of its content, but instead,

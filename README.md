@@ -10,21 +10,21 @@ this allows us to address issues asynchronously in an intelligent way.
 
 ## Before You Create a New Issue (i.e. 'Due Diligence')
 
-Before you add a new issue to the tracker,
-the team will expect you to go through the following checklist;
-this will help make the process more efficient
-by allowing the team to spend most of its time on hard issues,
-rather than easy ones.
+Before you add a new issue to the tracker, the team will expect you to go
+through the following checklist; this will help make the process more efficient
+by allowing the team to spend most of its time on hard issues, rather than easy
+ones.
 
 1.  Run your linter.
 
-    It may not seem obvious, but being consistent with this will save everyone a
-    lot of time. Whether you use the linter built into Atom, `grunt nag`,
+    It may not seem obvious, but being consistent with this will save everyone
+    a lot of time. Whether you use the linter built into Atom, `grunt nag`,
     `bin/rake nag`, or something else.
 
 1.  If you have tests, run them.
 
-    Test your JavaScript with `grunt test`; test your Ruby with `bin/rake test` (or `bundle exec rake test`).
+    Test your JavaScript with `grunt test`; test your Ruby with `bin/rake test`
+    (or `bundle exec rake test`).
 
 1.  If you have an error message, read the error!
 
@@ -57,8 +57,8 @@ rather than easy ones.
 
 1.  Search Google and Stack Overflow for your issue.
 
-    You're probably not the first person to ever encounter your issue.
-    Try copying the content of your error message (in quotes) into a search bar;
+    You're probably not the first person to ever encounter your issue. Try
+    copying the content of your error message (in quotes) into a search bar;
     you might be surprised what turns up.
 
 1.  Ask a peer.
@@ -70,11 +70,11 @@ rather than easy ones.
 
 1.  Read/search closed issues.
 
-    Similar to the previous one, but in case other developers aren't around, you
-    can actually sift through other issues and see if a solution exists by
-    clicking on the tab marked **Issues
-    &lt;open issue count&gt;** and then selecting **&#x2713; &lt;closed issue
-    count&gt; Closed** at the top of the issues list.
+    Similar to the previous one, but in case other developers aren't around,
+    you can actually sift through other issues and see if a solution exists by
+    clicking on the tab marked **Issues &lt;open issue count&gt;** and then
+    selecting **&#x2713; &lt;closed issue count&gt; Closed** at the top of the
+    issues list.
 
 ## How to Use the Issue Tracker
 
